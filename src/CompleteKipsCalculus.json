@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "$\\frac{d}{dx} \\cos x^{\\circ} = ?$",
+    "options": ["$-\\sin x^{\\circ}$", "$x^{\\circ} \\sin x^{\\circ}$", "$\\frac{\\pi}{180} \\sin x$", "$-\\frac{\\pi}{180} \\sin x$"],
+    "answer": "$-\\frac{\\pi}{180} \\sin x$",
+    "reference": "Chapter 2 - Differentiation"
+  },
+  {
+    "id": 2,
+    "question": "If $\\frac{d}{dx}(3x^3 + x) = \\frac{d}{dx}(-3x^2 - 5)$ then $x = ?$",
+    "options": ["1 or 2", "1 or 0", "1 or $-\\frac{1}{3}$", "$-\\frac{1}{3}$"],
+    "answer": "1 or $-\\frac{1}{3}$",
+    "reference": "Chapter 2 - Differentiation"
+  },
+  {
+    "id": 3,
+    "question": "If $f(y) = by^3$ then which of the following is true for $\\frac{d}{dx}f(y)$?",
+    "options": ["$3by$", "$3by^2$", "$3by^2 \\frac{dy}{dx}$", "none"],
+    "answer": "$3by^2 \\frac{dy}{dx}$",
+    "reference": "Chapter 2 - Differentiation"
+  },
+  {
+    "id": 4,
+    "question": "The point at which the curve $y = x^2 - 4x + 3$ has gradient $-2$ is:",
+    "options": ["(0, 1)", "(1, 0)", "(2, 1)", "(-3, 2)"],
+    "answer": "(1, 0)",
+    "reference": "Chapter 2 - Differentiation"
+  },
+  {
+    "id": 5,
+    "question": "The deceleration of a point moving with velocity $16 - t^2$ when it is momentarily at rest is:",
+    "options": ["$4m/sec^2$", "$6m/sec^2$", "$2m/sec^2$", "$8m/sec^2$"],
+    "answer": "$8m/sec^2$",
+    "reference": "Chapter 2 - Differentiation"
+  },
+  {
+    "id": 6,
+    "question": "If $y = \\frac{2}{x}$ then $y + \\frac{1}{2} \\frac{d^2y}{dx^2} = ?$",
+    "options": ["$\\frac{2+x}{x^2}$", "$\\frac{2x^2+2}{x^3}$", "$\\frac{2(1+x^2)}{x^3}$", "$\\frac{2(x^2+1)}{x^3}$"],
+    "answer": "$\\frac{2(x^2+2)}{x^3}$",
+    "reference": "Chapter 2 - Differentiation"
+  },
+  {
+    "id": 7,
+    "question": "Differentiating $x^9$ w.r.t. $x^2$ we get:",
+    "options": ["$5x^9$", "$\\frac{5}{2}x^6$", "$\\frac{9}{2}x^7$", "$3x^6$"],
+    "answer": "$\\frac{9}{2}x^7$",
+    "reference": "Chapter 2 - Differentiation"
+  },
+  {
+    "id": 8,
+    "question": "Derivative of $\\ln e^{x^3}$ w.r.t. $x$ is:",
+    "options": ["$3x^2$", "$3e^{x^2}$", "$\\frac{1}{3e^x}$", "$\\frac{1}{e^x}$"],
+    "answer": "$3x^2$",
+    "reference": "Chapter 2 - Differentiation"
+  },
+  {
+    "id": 9,
+    "question": "$\\lim_{x \\to 0} \\frac{\\sqrt{49+x}-7}{x} = ?$",
+    "options": ["0", "$\\frac{1}{14}$", "-6", "$\\infty$"],
+    "answer": "$\\frac{1}{14}$",
+    "reference": "Chapter 1 - Functions and Limits"
+  },
+  {
+    "id": 10,
+    "question": "The domain of the function $h(x) = \\sqrt{x^2 - 4}$ is:",
+    "options": ["Real numbers", "Real numbers - {2}", "$x \\in R \\mid -2 < x < 2$", "$R - (-2, 2)$"],
+    "answer": "$R - (-2, 2)$",
+    "reference": "Chapter 1 - Functions and Limits"
+  },
+  {
+    "id": 11,
+    "question": "$\\lim_{x \\to c} \\frac{x^p - c^p}{x - c} = ?$",
+    "options": ["0", "$pc^{p-1}$", "$px^{p-1}$", "1"],
+    "answer": "$pc^{p-1}$",
+    "reference": "Chapter 1 - Functions and Limits"
+  },
+  {
+    "id": 12,
+    "question": "Given $f(x) = 4x+5$ and $g(x) = 3x+7$ then $f(g(x)) = ?$",
+    "options": ["$12x+28$", "$12x+33$", "4x-31", "$25x+34$"],
+    "answer": "$12x+33$",
+    "reference": "Chapter 1 - Functions and Limits"
+  },
+  {
+    "id": 13,
+    "question": "$\\lim_{z \\to 0} \\frac{\\sin pz}{mz} = ?$",
+    "options": ["0", "$\\frac{p}{m}$", "$\\frac{1}{m}$", "$\\infty$"],
+    "answer": "$\\frac{p}{m}$",
+    "reference": "Chapter 1 - Functions and Limits"
+  },
+  {
+    "id": 14,
+    "question": "$\\lim_{x \\to 0} (1-4x)^{\\frac{1}{x}} = ?$",
+    "options": ["$e^4$", "$\\frac{1}{e^4}$", "e", "$e^{-4x}$"],
+    "answer": "$\\frac{1}{e^4}$",
+    "reference": "Chapter 1 - Functions and Limits"
+  },
+  {
+    "id": 15,
+    "question": "$\\int \\frac{a}{x^n} dx = ?$",
+    "options": ["$\\frac{ax^{n+1}}{n+1}$", "$ax^{n-1}(n-1)$", "$\\frac{ax^{1-n}}{1-n}$", "$(ax)^{n+1}$"],
+    "answer": "$\\frac{ax^{1-n}}{1-n}$",
+    "reference": "Chapter 3 - Integration"
+  },
+  {
+    "id": 16,
+    "question": "$\\int e^x (\\tan^{-1}x + \\frac{1}{1+x^2}) dx = ?$",
+    "options": ["$e^x \\sec^{-1}x$", "$\\frac{e^x}{1+x^2}$", "$e^x \\tan^{-1}x$", "$e^x \\sec^{-1}x + \\frac{e^x}{1+x^2}$"],
+    "answer": "$e^x \\tan^{-1}x$",
+    "reference": "Chapter 3 - Integration"
+  },
+  {
+    "id": 17,
+    "question": "$\\int_{-1}^{1} (x+1)^2 dx = ?$",
+    "options": ["8", "3", "$\\frac{8}{3}$", "$\\frac{3}{8}$"],
+    "answer": "$\\frac{8}{3}$",
+    "reference": "Chapter 3 - Integration"
+  },
+  {
+    "id": 18,
+    "question": "Solution of $\\frac{dy}{dx} = x^4 + 12$ is:",
+    "options": ["$x^4 + 12 + c$", "$\\frac{x^5}{5} + 12x + c$", "$\\frac{x^5 + 12x + c}{5}$", "$\\frac{x^2 + 12x}{4} + c$"],
+    "answer": "$\\frac{x^5}{5} + 12x + c$",
+    "reference": "Chapter 3 - Integration"
+  },
+  {
+    "id": 19,
+    "question": "$\\int \\sec^2 nx dx = ?$",
+    "options": ["$\\frac{n}{3} \\sec 3nx$", "$n \\tan(nx)$", "$\\tan(nx)$", "$\\frac{1}{n} \\tan(nx)$"],
+    "answer": "$\\frac{1}{n} \\tan(nx)$",
+    "reference": "Chapter 3 - Integration"
+  },
+  {
+    "id": 20,
+    "question": "Definite integral $\\int_a^b f(x) dx$ for $f(x) \\ge 0$ represents:",
+    "options": ["Area", "Volume", "Graph", "Integral"],
+    "answer": "Area",
+    "reference": "Chapter 3 - Integration"
+  }
+]
